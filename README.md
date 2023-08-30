@@ -1,4 +1,4 @@
-# Employee-Information-Management-Database
+# Employee Turnover Data Mining and Prediction
 A data mining and machine learning project for employee turnover.
 
 -	 Conducted exploratory data analysis on an employee turnover dataset using Python and its associated data science libraries, including NumPy, Pandas, and Matplotlib, to gain insights into patterns and trends in the data.
