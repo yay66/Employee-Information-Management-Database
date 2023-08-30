@@ -1,6 +1,6 @@
 # Employee-Information-Management-Database
 A relational database for managing all employee information.
 
--	Designed the Entity Relationship Diagrams to identify critical entities, attributes, and relationships, as the database schema guidance and ensure data integrity and consistency throughout the application.
--	Created multiple SQL queries to allow users to retrieve employees’ basic information by certain attributes across 9 tables.
--	Added multiple features of the ‘Control Toolbox’ into the forms and reports to aid users in better managing and using the database, such as adding records, printing current forms/reports, connecting reports.Developed and trained machine
+-	 Conducted exploratory data analysis on an employee turnover dataset using Python and its associated data science libraries, including NumPy, Pandas, and Matplotlib, to gain insights into patterns and trends in the data.
+-	 Created visualizations of the employee turnover data using Matplotlib and Seaborn to identify any correlations or patterns between variables, such as the relationship between employee age and turnover rate, or the relationship between job satisfaction and turnover rate.
+-	 Conducted a feature selection analysis to identify the most important features in predicting employee turnover and to reduce the complexity of the model.
